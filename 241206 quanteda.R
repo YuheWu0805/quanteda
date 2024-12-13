@@ -24,5 +24,9 @@ require(seededlda)
 # output: ## [1] "red apple" "yellow banana" "orange mandarin" "green melon"
 # Q: paste? A:形式上组合到一起，没有逻辑上的加减关系
 
+# names(vec_num) <- vec_char
+# 变量会逐个按照对应的次序被命名
+
+
 # quanteda in X-student research group
 
